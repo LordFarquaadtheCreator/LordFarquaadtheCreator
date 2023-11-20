@@ -7,7 +7,7 @@ Additionally, I have a Certificate in Machine Learning Foundations at Cornell Te
 
 ## 🛠️ Projects That Make a Difference 🛠️
 
-I've had the privilege of participating in impactful projects, such as hosting websites, building NLP-powered applications, and creating automated solutions. Whether it's applying NLP to enhance content management or developing chatbots to improve user experiences, I'm driven by the potential of technology to make a difference.
+I've had the privilege of participating in impactful projects in hackathons and personal projects, building NLP-powered applications, and creating automated solutions. Whether it's applying NLP to enhance content management or developing chatbots to improve user experiences, I'm driven by the potential of technology to make a difference.
 
 ## ✍️ Let's Connect! ✍️
 
